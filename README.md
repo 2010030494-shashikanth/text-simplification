@@ -1,1 +1,2 @@
-# netflix data analysis
+# text-simpification
+
